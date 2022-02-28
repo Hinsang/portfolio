@@ -1,0 +1,247 @@
+.s1 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../screenshot/1.jpg");
+}
+.s2 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../screenshot/2.jpg");
+}
+.s3 {
+  width: 100%;
+  height: 600px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/3.jpg");
+}
+.s4 {
+  width: 100%;
+  height: 600px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/4.png");
+}
+.s5 {
+  width: 100%;
+  height: 600px;
+  margin-top: -30px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/5.png");
+}
+.s6 {
+  width: 100%;
+  height: 600px;
+  margin-top: -30px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/6.png");
+}
+.s7 {
+  width: 100%;
+  height: 600px;
+  margin-top: -30px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/7.png");
+}
+.s8 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../screenshot/8.png");
+} 
+.s9 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../screenshot/9.png");
+}
+.s10 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/10.jpg");
+}
+.s11 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/11.PNG");
+}
+.s12 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/12.PNG");
+}
+.s13 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/13.PNG");
+}
+.s14 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/14.JPG");
+}
+.s15 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/15.png");
+}
+.s16 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/16.jpg");
+}
+.s17 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/17.png");
+}
+.s18 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/18.png");
+}
+.s19 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/19.jpg");
+}
+.s20 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/20.JPG");
+}
+.s21 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/21.png");
+}
+.s22 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/22.png");
+}
+.s23 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/23.png");
+}
+.s24 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/24.png");
+}
+.s25 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/25.png");
+}
+.s26 {
+  width: 49%;
+  height: 300px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/26.png");
+}
+.s27 {
+  width: 100%;
+  height: 300px;
+  /* margin-top: -30px; */
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("../screenshot/projects.JPG");
+}
