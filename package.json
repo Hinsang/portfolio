@@ -13,7 +13,7 @@
   "author": "InSang",
   "license": "ISC",
   "dependencies": {
+    "next": "^12.1.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
