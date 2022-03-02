@@ -1,14 +1,15 @@
 import React from 'react';
-import { Button, Card, Form, Input, Popover } from 'antd';
+import { Button, Card } from 'antd';
 import { HeartOutlined } from '@ant-design/icons';
 import PropTypes from 'prop-types';
 import { useSelector } from 'react-redux';
 // import PostImages from './PostImages';
 
-const PostCard = ({ post }) => {
-  const { me } = useSelector((state) => state.user);
+const PostCard = ({ post }) =>
+  // const { me } = useSelector((state) => state.user);
   // const id = me && me.id;
-  return (
+  // eslint-disable-next-line implicit-arrow-linebreak
+  (
     <div>
       <Card
         // cover={post.Images[0] && <PostImages images={post.Images} />}
@@ -29,8 +30,6 @@ const PostCard = ({ post }) => {
       </Card>
     </div>
   );
-};
-
 PostCard.propTypes = {
   post: PropTypes.shape({
     id: PropTypes.number,

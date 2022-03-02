@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { Form, Input, Link, Button } from 'antd';
+import { Form, Input, Button } from 'antd';
 import { useSelector, useDispatch } from 'react-redux';
 import Router from 'next/router';
 import { ADD_POST_RESET, postRequestAction } from '../reducers/post';

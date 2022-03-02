@@ -31,6 +31,7 @@ function Signup() {
     setPassword(e.target.value);
   }, []);
 
+  // eslint-disable-next-line consistent-return
   const onSubmit = useCallback(() => {
     try {
       if (id.length < 3) {

@@ -1,7 +1,7 @@
 import React, { useCallback } from 'react';
 import Link from 'next/link';
 import { useSelector, useDispatch } from 'react-redux';
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 import styles from './Toolbar.module.css';
 import { logoutRequestAction } from '../reducers/user';
 
@@ -28,7 +28,7 @@ function Toolbar() {
       me
         ? (
           <span className={styles.toolbar_box}>
-            <span onClick={LogOutHandler} className={styles.toolbar}>
+            <span onClick={LogOutHandler} aria-hidden="true" className={styles.toolbar}>
               <span style={{ fontSize: '24px' }}>({me.id})</span>
               &nbsp;로그아웃
             </span>

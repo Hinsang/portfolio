@@ -8,7 +8,7 @@ import Router from 'next/router';
 import { loginRequestAction, SIGN_UP_RESET, SIGN_UP_SUCCESS } from '../reducers/user';
 
 const Login = () => {
-  const { logInDone, logInLoading, logInError, me } = useSelector((state) => state.user);
+  const { logInDone, logInLoading, logInError } = useSelector((state) => state.user);
   const dispatch = useDispatch();
   const [id, setId] = useState('');
   const [password, setPassword] = useState('');

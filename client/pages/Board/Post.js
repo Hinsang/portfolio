@@ -1,10 +1,6 @@
-import React, { useCallback, useEffect } from 'react';
-import { Button, Card, Form, Input } from 'antd';
-import { useSelector, useDispatch } from 'react-redux';
-import Router from 'next/router';
+import React from 'react';
+import { useSelector } from 'react-redux';
 import PostForm from '../../components/PostForm';
-import PostCard from '../../components/PostCard';
-import { ADD_POST_RESET } from '../../reducers/post';
 
 function Post() {
   const { me } = useSelector((state) => state.user);
