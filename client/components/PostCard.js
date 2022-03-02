@@ -2,7 +2,6 @@ import React from 'react';
 import { Button, Card } from 'antd';
 import { HeartOutlined } from '@ant-design/icons';
 import PropTypes from 'prop-types';
-import { useSelector } from 'react-redux';
 // import PostImages from './PostImages';
 
 const PostCard = ({ post }) =>
