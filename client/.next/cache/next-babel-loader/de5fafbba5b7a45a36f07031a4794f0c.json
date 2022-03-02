@@ -1,1 +1,0 @@
-{"ast":null,"code":"import React from 'react';\nimport { jsx as _jsx } from \"react/jsx-runtime\";\n\nfunction Studies() {\n  return /*#__PURE__*/_jsx(\"div\", {});\n}\n\nexport default Studies;","map":null,"metadata":{},"sourceType":"module"}
