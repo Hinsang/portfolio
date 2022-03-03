@@ -1,6 +1,16 @@
 {
+  "/Board": "pages/Board.html",
+  "/Board/Post": "pages/Board/Post.html",
+  "/CheckID": "pages/CheckID.html",
+  "/Introduce": "pages/Introduce.html",
+  "/Login": "pages/Login.html",
+  "/Mypage": "pages/Mypage.html",
+  "/Signup": "pages/Signup.html",
+  "/Studies": "pages/Studies.html",
   "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html"
 }
