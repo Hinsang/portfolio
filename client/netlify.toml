@@ -1,7 +1,5 @@
 [build]
-command = "npm run build && npm run export"
-publish = "out"
-base = "/client"
+command = "npm run build"
 
 [[redirects]]
 from = "/*"
