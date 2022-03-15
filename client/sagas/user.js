@@ -16,7 +16,7 @@ import { LOG_IN_FAILURE, LOG_IN_SUCCESS, LOG_IN_REQUEST,
 function loadUserAPI() {
   // const { me } = useSelector((state) => state.user);
   // if (me) { console.log(me); }
-  return axios.get('http://localhost:3065/');
+  return axios.get('https://next-project-server.herokuapp.com/');
   // get이랑 delete는 데이터가 없으므로 2번째 자리에 옵션이 들어가는데
   // saga index에서 credentials 공통 처리를 해주었으므로 생략한다.
 }
@@ -40,7 +40,7 @@ function* loadUser(action) {
 function logInAPI(data) {
   // const { me } = useSelector((state) => state.user);
   // if (me) { console.log(me); }
-  return axios.post('http://localhost:3065/Login', data);
+  return axios.post('https://next-project-server.herokuapp.com/Login', data);
 }
 function* logIn(action) {
   try {
@@ -60,7 +60,7 @@ function* logIn(action) {
 }
 
 function logOutAPI() {
-  return axios.post('http://localhost:3065/Logout');
+  return axios.post('https://next-project-server.herokuapp.com/Logout');
 }
 
 function* logOut() {
@@ -78,7 +78,7 @@ function* logOut() {
 }
 
 function signUpAPI(data) {
-  return axios.post('http://localhost:3065/Signup', data);
+  return axios.post('https://next-project-server.herokuapp.com/Signup', data);
 }
 
 function* signUp(action) {

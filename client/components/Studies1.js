@@ -53,7 +53,7 @@ const Studies1 = () => (
     <div className={styles.s19} style={{ marginRight: 10 }} />
     <div style={{ marginTop: 60, marginBottom: 20 }}>
       <h3>6. 리액트 노드버드 SNS 만들기</h3>
-      SNS 만들기 풀스택 심화강좌인데, 아직 완강하지는 못했다. mySQL 연동이 안되서 mongoDB로 새로 만들어야했기 때문이다.
+      SNS 만들기 풀스택 심화강좌인데, 백엔드의 일부파트는 아직 완강하지 못했다. mySQL 연동이 안되서 mongoDB로 새로 만들어야했기 때문이다.
       그런 부분에서 많은 시행착오를 겪어야 했지만, React, next, saga, redux와 server, DB를 연결하는 전체적인 흐름을
       이해하는데 많은 도움을 주었다. 강의하시는분도 이거하나면 신입으로 취업할 수 있다고 하셔서 믿음이 갔다. 취업 후에도
       이 강의를 전체적으로 한번 더 복습할 예정이다.
